@@ -31,8 +31,7 @@ function add(a, b) {
   console.log(multiply(2, 6)); // Output: 12
   console.log(divide(10, 2)); // Output: 5
 
-  testingclear
-  
+test1  
   
 
   
