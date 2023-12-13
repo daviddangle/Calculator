@@ -1,4 +1,8 @@
 
+const numberButtons = document.querySelectorAll('[data-number]')
+const operationButtons = document.querySelectorAll('[data-operation]')
+const equalsButton = document.querySelector('[data-equals]')
+//buttons for the calculator
 
 
 // Function to add two numbers
@@ -31,7 +35,6 @@ function add(a, b) {
   console.log(multiply(2, 6)); // Output: 12
   console.log(divide(10, 2)); // Output: 5
 
-test1  
   
 
   
